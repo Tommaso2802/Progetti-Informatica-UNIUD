@@ -1,4 +1,3 @@
-Progettazione completa di una base di dati per una rete di stazioni di servizio in FVG: dallo schema E-R all'implementazione in PostgreSQL con trigger, indici e query
 # Base di dati per una rete di stazioni di servizio in Friuli Venezia Giulia
 
 Progetto del corso di Basi di Dati – Laurea in Informatica, Università di Udine.
@@ -29,7 +28,7 @@ PostgreSQL · SQL · LaTeX
 
 
 
-Analisi sperimentale in Python di QuickSort, QuickSort 3-way, MergeSort e CountingSort: tempi misurati al variare della dimensione dell'input (n) e del dominio dei valori (m), confrontati con la complessità teorica.
+
 
  # Analisi empirica degli algoritmi di ordinamento
 
