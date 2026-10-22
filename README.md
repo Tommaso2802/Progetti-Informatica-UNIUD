@@ -49,3 +49,8 @@ dell'intervallo dei valori (m), confrontando i risultati con la complessità teo
 | MergeSort | comparativo | Θ(n log n) in ogni caso | sì | no |
 | CountingSort | non comparativo | Θ(n + m) | sì | no |
 
+
+## License
+This project is published for academic portfolio purposes only.
+Viewing is permitted. Reuse, modification, redistribution, and commercial use
+are prohibited without explicit written permission from the authors.
